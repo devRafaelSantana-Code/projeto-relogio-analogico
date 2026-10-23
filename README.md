@@ -3,8 +3,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Vanilla">
   <img src="https://img.shields.io/badge/CSS3-Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Glassmorphism">
-  <img src="https://img.shields.io/badge/UI%2FUX-Interface%20Responsiva-6C63FF?style=for-the-badge" alt="UI/UX Responsiva">
   <img src="https://img.shields.io/badge/HTML5-Sem%C3%A2ntica-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/UI%2FUX-Responsive%20Design-6C63FF?style=for-the-badge" alt="UI/UX Responsiva">
+</p>
+
+## 🌐 Visualização Online
+
+**Acesse o projeto publicado na Vercel:**
+
+<p align="center">
+  <a href="https://projeto-relogio-analogico.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visualizar%20Projeto-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visualizar projeto online na Vercel">
+  </a>
 </p>
 
 ## 📌 Sobre o Projeto
